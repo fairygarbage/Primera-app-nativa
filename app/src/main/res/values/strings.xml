@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">WeatherApp22</string>
+    <string name="btnCdmx">Ciudad de México</string>
+    <string name="btnCuu">Chihuahua</string>
+    <string name="btnMty">Monterrey</string>
+</resources>
